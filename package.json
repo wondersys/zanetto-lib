@@ -7,6 +7,10 @@
   "scripts": {
     "test": "mocha -r ts-node/register --timeout 10000 test/*.spec.ts"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wondersys/zanetto-lib.git"
+  },
   "keywords": [],
   "author": "Simone Bracaloni <simone.bracaloni@wonder-sys.com>",
   "license": "ISC",
